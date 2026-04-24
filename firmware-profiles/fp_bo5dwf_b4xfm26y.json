@@ -1,0 +1,33 @@
+{
+  "id": "fp_bo5dwf_b4xfm26y",
+  "name": "Новая прошивка",
+  "platform": "",
+  "version": "2026.04.23-1901",
+  "sizeGroups": [
+    {
+      "id": "sg_bo5dwf_2ki9otgu",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickFrameEnabled": false,
+      "optimizeImagesOnExport": false,
+      "optimizeJsOnExport": false,
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {},
+      "label": "saasas"
+    }
+  ],
+  "createdAt": "2026-04-23T16:01:21.795Z",
+  "updatedAt": "2026-04-23T16:01:21.795Z"
+}
