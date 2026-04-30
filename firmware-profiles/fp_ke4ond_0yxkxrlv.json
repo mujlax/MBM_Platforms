@@ -1,0 +1,33 @@
+{
+  "id": "fp_ke4ond_0yxkxrlv",
+  "name": "Yandex_Firm",
+  "platform": "Yandex_2",
+  "version": "2026.03.10-1212",
+  "sizeGroups": [
+    {
+      "id": "sg_ke4ond_rzln8e9k",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickFrameEnabled": false,
+      "optimizeImagesOnExport": false,
+      "optimizeJsOnExport": false,
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {},
+      "label": "TestMacNXD"
+    }
+  ],
+  "createdAt": "2026-03-10T09:12:02.817Z",
+  "updatedAt": "2026-03-10T09:12:02.817Z"
+}
