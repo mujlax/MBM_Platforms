@@ -1,8 +1,8 @@
 {
   "id": "fp_bo5dwf_b4xfm26y",
-  "name": "Новая прошивка",
-  "platform": "",
-  "version": "2026.04.24-1112",
+  "name": "Yandex",
+  "platform": "Yandex",
+  "version": "2026.04.30-1606",
   "sizeGroups": [
     {
       "id": "sg_bo5dwf_2ki9otgu",
@@ -33,5 +33,5 @@
     }
   ],
   "createdAt": "2026-04-23T16:01:21.795Z",
-  "updatedAt": "2026-04-24T08:11:35.823Z"
+  "updatedAt": "2026-04-30T13:06:58.959Z"
 }
