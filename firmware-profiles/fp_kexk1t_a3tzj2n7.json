@@ -1,0 +1,38 @@
+{
+  "id": "fp_kexk1t_a3tzj2n7",
+  "name": "Pisya",
+  "platform": "Popa",
+  "version": "2026.03.10-1234",
+  "sizeGroups": [
+    {
+      "id": "sg_kexk1t_0v72pfeb",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickFrameEnabled": true,
+      "optimizeImagesOnExport": true,
+      "optimizeJsOnExport": true,
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": "",
+        "outlineColor": "#000000"
+      },
+      "headHtml": "bbb",
+      "bodyHtmlBeforeClose": "bbb",
+      "validation": {
+        "maxIndexHtmlBytes": 1024,
+        "maxIndexJsBytes": 2048,
+        "maxTotalBytes": 3072
+      },
+      "label": "kakashescka"
+    }
+  ],
+  "createdAt": "2026-03-10T09:34:16.078Z",
+  "updatedAt": "2026-03-10T09:34:16.078Z"
+}
