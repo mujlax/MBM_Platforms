@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "name": "test33",
+  "docs": [
+    {
+      "id": "doc_n0byfz_cm8bffro",
+      "name": "300x250 (Medium Rectangle) 1",
+      "width": 300,
+      "height": 250,
+      "rootId": "root_n0byfz_xfrvn1we",
+      "nodes": {
+        "root_n0byfz_xfrvn1we": {
+          "id": "root_n0byfz_xfrvn1we",
+          "type": "frame",
+          "name": "300x250 (Medium Rectangle) 1",
+          "parentId": null,
+          "clip": true,
+          "common": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 250,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "children": [
+            "bg_n0byfz_vpcut2gw"
+          ],
+          "style": {
+            "bgColor": "#ffffff",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#ffffff",
+            "shadow": "none"
+          },
+          "isGuide": false,
+          "hiddenInEditor": false
+        },
+        "bg_n0byfz_vpcut2gw": {
+          "id": "bg_n0byfz_vpcut2gw",
+          "type": "rect",
+          "name": "Background",
+          "parentId": "root_n0byfz_xfrvn1we",
+          "common": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 250,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "style": {
+            "bgColor": "rgba(236, 72, 153, 1)",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#ffffff",
+            "shadow": "none"
+          },
+          "isGuide": false,
+          "hiddenInEditor": false
+        }
+      },
+      "timeline": {
+        "durationMs": 1200,
+        "loop": true,
+        "markers": [],
+        "fps": 30
+      },
+      "inheritance": {
+        "role": "content",
+        "strategy": "clone",
+        "sourceId": null,
+        "inheritMask": {
+          "content": true,
+          "timeline": true,
+          "style": true,
+          "size": true
+        }
+      },
+      "overrides": {
+        "nodes": {}
+      }
+    }
+  ],
+  "board": {
+    "frames": [
+      {
+        "id": "frame_n0byfz_cioaxvj4",
+        "docId": "doc_n0byfz_cm8bffro",
+        "x": 175,
+        "y": 3795,
+        "scale": 1,
+        "rotation": 0,
+        "label": "300x250",
+        "role": "content",
+        "parentDocId": null
+      }
+    ],
+    "activeFrameId": "frame_n0byfz_cioaxvj4"
+  },
+  "createdAt": "2026-05-01T14:25:37.242Z",
+  "updatedAt": "2026-05-01T14:36:45.388Z",
+  "sync": {
+    "github": {
+      "projectId": "project_n0niks_78hei6c9",
+      "version": "2026.05.01-173645",
+      "history": [
+        {
+          "version": "2026.05.01-173645",
+          "action": "push",
+          "at": "2026-05-01T14:36:45.388Z"
+        }
+      ]
+    }
+  }
+}
