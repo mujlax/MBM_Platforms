@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "name": "Сцена 1",
+  "docs": [
+    {
+      "id": "doc_mzagdi_0qmzjidt",
+      "name": "300x250 (Medium Rectangle) 1",
+      "width": 300,
+      "height": 250,
+      "rootId": "root_mzagdi_vrha56js",
+      "nodes": {
+        "root_mzagdi_vrha56js": {
+          "id": "root_mzagdi_vrha56js",
+          "type": "frame",
+          "name": "300x250 (Medium Rectangle) 1",
+          "parentId": null,
+          "clip": true,
+          "common": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 250,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "children": [
+            "bg_mzagdi_vj009o5k",
+            "rect_mzb23t_15afmybm"
+          ],
+          "style": {
+            "bgColor": "#ffffff",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#ffffff",
+            "shadow": "none"
+          }
+        },
+        "bg_mzagdi_vj009o5k": {
+          "id": "bg_mzagdi_vj009o5k",
+          "type": "rect",
+          "name": "Background",
+          "parentId": "root_mzagdi_vrha56js",
+          "common": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 250,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "style": {
+            "bgColor": "rgba(239, 68, 68, 1)",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#ffffff",
+            "shadow": "none"
+          }
+        },
+        "rect_mzb23t_15afmybm": {
+          "id": "rect_mzb23t_15afmybm",
+          "name": "Rect",
+          "parentId": "root_mzagdi_vrha56js",
+          "common": {
+            "x": 51.3046875,
+            "y": 64.2421875,
+            "w": 200,
+            "h": 120,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1,
+            "anchorX": 100,
+            "anchorY": 60
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "isGuide": false,
+          "type": "rect",
+          "style": {
+            "bgColor": "rgba(234, 179, 8, 1)",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#000000",
+            "shadow": "none"
+          }
+        }
+      },
+      "timeline": {
+        "durationMs": 1200,
+        "loop": true,
+        "markers": [],
+        "fps": 30
+      },
+      "inheritance": {
+        "role": "content",
+        "strategy": "clone",
+        "sourceId": null,
+        "inheritMask": {
+          "content": true,
+          "timeline": true,
+          "style": true,
+          "size": true
+        }
+      }
+    }
+  ],
+  "board": {
+    "frames": [
+      {
+        "id": "frame_mzagdi_eih881p3",
+        "docId": "doc_mzagdi_0qmzjidt",
+        "x": 368,
+        "y": 3943,
+        "scale": 1,
+        "rotation": 0,
+        "label": "300x250",
+        "role": "content",
+        "parentDocId": null
+      }
+    ],
+    "activeFrameId": null
+  },
+  "createdAt": "2026-05-01T13:40:10.364Z",
+  "updatedAt": "2026-05-01T13:59:54.961Z",
+  "sync": {
+    "github": {
+      "projectId": "project_mzc501_kk6jcbip",
+      "version": "2026.05.01-1659",
+      "history": [
+        {
+          "version": "2026.05.01-1659",
+          "action": "push",
+          "at": "2026-05-01T13:59:54.961Z"
+        }
+      ]
+    }
+  }
+}
