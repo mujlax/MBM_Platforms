@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "name": "Сцена 1",
+  "docs": [
+    {
+      "id": "doc_n008b7_63ixl46n",
+      "name": "300x250 (Medium Rectangle) 1",
+      "width": 300,
+      "height": 250,
+      "rootId": "root_n008b7_jdwyfiqj",
+      "nodes": {
+        "root_n008b7_jdwyfiqj": {
+          "id": "root_n008b7_jdwyfiqj",
+          "type": "frame",
+          "name": "300x250 (Medium Rectangle) 1",
+          "parentId": null,
+          "clip": true,
+          "common": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 250,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "children": [
+            "bg_n008b7_v5vhbf15"
+          ],
+          "style": {
+            "bgColor": "#ffffff",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#ffffff",
+            "shadow": "none"
+          }
+        },
+        "bg_n008b7_v5vhbf15": {
+          "id": "bg_n008b7_v5vhbf15",
+          "type": "rect",
+          "name": "Background",
+          "parentId": "root_n008b7_jdwyfiqj",
+          "common": {
+            "x": -0.26953125,
+            "y": -0.13671875,
+            "w": 300,
+            "h": 250,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "style": {
+            "bgColor": "rgba(0, 0, 0, 1)",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#ffffff",
+            "shadow": "none"
+          }
+        }
+      },
+      "timeline": {
+        "durationMs": 1200,
+        "loop": true,
+        "markers": [],
+        "fps": 30
+      },
+      "inheritance": {
+        "role": "content",
+        "strategy": "clone",
+        "sourceId": null,
+        "inheritMask": {
+          "content": true,
+          "timeline": true,
+          "style": true,
+          "size": true
+        }
+      }
+    }
+  ],
+  "board": {
+    "frames": [
+      {
+        "id": "frame_n008b7_bxmgbih6",
+        "docId": "doc_n008b7_63ixl46n",
+        "x": 210,
+        "y": 3793,
+        "scale": 1,
+        "rotation": 0,
+        "label": "300x250",
+        "role": "content",
+        "parentDocId": null
+      }
+    ],
+    "activeFrameId": null
+  },
+  "createdAt": "2026-05-01T14:18:21.470Z",
+  "updatedAt": "2026-05-01T14:18:49.563Z",
+  "sync": {
+    "github": {
+      "projectId": "project_n00ggr_b555lm8u",
+      "version": "2026.05.01-171849",
+      "history": [
+        {
+          "version": "2026.05.01-171849",
+          "action": "push",
+          "at": "2026-05-01T14:18:49.563Z"
+        }
+      ]
+    }
+  }
+}
