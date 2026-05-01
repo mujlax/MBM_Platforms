@@ -38,7 +38,9 @@
             "borderWidth": 0,
             "borderColor": "#ffffff",
             "shadow": "none"
-          }
+          },
+          "isGuide": false,
+          "hiddenInEditor": false
         },
         "bg_mzagdi_vj009o5k": {
           "id": "bg_mzagdi_vj009o5k",
@@ -46,8 +48,8 @@
           "name": "Background",
           "parentId": "root_mzagdi_vrha56js",
           "common": {
-            "x": 0,
-            "y": 0,
+            "x": -0.26953125,
+            "y": -0.26953125,
             "w": 300,
             "h": 250,
             "rotation": 0,
@@ -64,15 +66,17 @@
             "borderWidth": 0,
             "borderColor": "#ffffff",
             "shadow": "none"
-          }
+          },
+          "isGuide": false,
+          "hiddenInEditor": false
         },
         "rect_mzb23t_15afmybm": {
           "id": "rect_mzb23t_15afmybm",
           "name": "Rect",
           "parentId": "root_mzagdi_vrha56js",
           "common": {
-            "x": 51.3046875,
-            "y": 64.2421875,
+            "x": 5.91015625,
+            "y": 15.25390625,
             "w": 200,
             "h": 120,
             "rotation": 0,
@@ -88,12 +92,13 @@
           "isGuide": false,
           "type": "rect",
           "style": {
-            "bgColor": "rgba(234, 179, 8, 1)",
+            "bgColor": "rgba(34, 197, 94, 1)",
             "borderRadius": 0,
             "borderWidth": 0,
             "borderColor": "#000000",
             "shadow": "none"
-          }
+          },
+          "hiddenInEditor": false
         }
       },
       "timeline": {
@@ -112,6 +117,100 @@
           "style": true,
           "size": true
         }
+      },
+      "overrides": {
+        "nodes": {},
+        "style": {}
+      }
+    },
+    {
+      "id": "doc_mzg872_0klkzxzw",
+      "name": "728x90 (Leaderboard) 2",
+      "width": 728,
+      "height": 90,
+      "rootId": "root_mzg872_ut0f12tj",
+      "nodes": {
+        "root_mzg872_ut0f12tj": {
+          "id": "root_mzg872_ut0f12tj",
+          "type": "frame",
+          "name": "728x90 (Leaderboard) 2",
+          "parentId": null,
+          "clip": true,
+          "common": {
+            "x": 0,
+            "y": 0,
+            "w": 728,
+            "h": 90,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "children": [
+            "bg_mzg872_om42bb9n"
+          ],
+          "style": {
+            "bgColor": "#ffffff",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#ffffff",
+            "shadow": "none"
+          },
+          "isGuide": false,
+          "hiddenInEditor": false
+        },
+        "bg_mzg872_om42bb9n": {
+          "id": "bg_mzg872_om42bb9n",
+          "type": "rect",
+          "name": "Background",
+          "parentId": "root_mzg872_ut0f12tj",
+          "common": {
+            "x": 0.0078125,
+            "y": -0.66796875,
+            "w": 728,
+            "h": 90,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "opacity": 1
+          },
+          "keyframes": [],
+          "isMask": false,
+          "isLocked": false,
+          "style": {
+            "bgColor": "rgba(0, 0, 0, 1)",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": "#ffffff",
+            "shadow": "none"
+          },
+          "isGuide": false,
+          "hiddenInEditor": false
+        }
+      },
+      "timeline": {
+        "durationMs": 1200,
+        "loop": true,
+        "markers": [],
+        "fps": 30
+      },
+      "inheritance": {
+        "role": "content",
+        "strategy": "clone",
+        "sourceId": null,
+        "inheritMask": {
+          "content": true,
+          "timeline": true,
+          "style": true,
+          "size": true
+        }
+      },
+      "overrides": {
+        "nodes": {},
+        "style": {}
       }
     }
   ],
@@ -127,17 +226,49 @@
         "label": "300x250",
         "role": "content",
         "parentDocId": null
+      },
+      {
+        "id": "frame_mzg872_qq1cnjnd",
+        "docId": "doc_mzg872_0klkzxzw",
+        "x": 668.203125,
+        "y": 3830.12890625,
+        "scale": 1,
+        "rotation": 0,
+        "label": "728x90",
+        "role": "content",
+        "parentDocId": null
       }
     ],
-    "activeFrameId": null
+    "activeFrameId": "frame_mzagdi_eih881p3"
   },
   "createdAt": "2026-05-01T13:40:10.364Z",
-  "updatedAt": "2026-05-01T13:59:54.961Z",
+  "updatedAt": "2026-05-01T14:18:15.910Z",
   "sync": {
     "github": {
       "projectId": "project_mzc501_kk6jcbip",
-      "version": "2026.05.01-1659",
+      "version": "2026.05.01-171815",
+      "sha": "1165a1f4ad613ed88e795f7e759e825496bfc0be",
       "history": [
+        {
+          "version": "2026.05.01-171815",
+          "action": "push",
+          "at": "2026-05-01T14:18:15.910Z",
+          "sha": "1165a1f4ad613ed88e795f7e759e825496bfc0be"
+        },
+        {
+          "version": "2026.05.01-171520",
+          "action": "localSave",
+          "at": "2026-05-01T14:15:20.970Z",
+          "sha": "1165a1f4ad613ed88e795f7e759e825496bfc0be",
+          "message": "Сохранено локально"
+        },
+        {
+          "version": "2026.05.01-1659",
+          "action": "pull",
+          "at": "2026-05-01T14:02:58.300Z",
+          "sha": "1165a1f4ad613ed88e795f7e759e825496bfc0be",
+          "message": "Обновлено из GitHub"
+        },
         {
           "version": "2026.05.01-1659",
           "action": "push",
